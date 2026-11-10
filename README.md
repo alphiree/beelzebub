@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://beelzebub.rylupague.dev">beelzebub.rylupague.dev</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/skill-one%20SKILL.md-111111?style=flat-square" alt="One SKILL.md">
   <img src="https://img.shields.io/badge/scripts-none-111111?style=flat-square" alt="No scripts">
   <img src="https://img.shields.io/badge/dependencies-none-111111?style=flat-square" alt="No dependencies">
@@ -20,14 +24,6 @@
 You have three skills that each do part of the job. Load them together and they argue: one says ask first, another says never ask; one wants a test for everything, another wants none for trivial changes. Your agent has to guess which one wins.
 
 beelzebub eats them and returns one skill that works on its own. Every rule is kept, merged, or dropped on purpose, and every real contradiction is put in front of you before a word of the new skill is written.
-
-## Inspiration
-
-beelzebub is named after Rimuru's Ultimate Skill in *That Time I Got Reincarnated as a Slime*: **Beelzebuth, Lord of Gluttony** (暴食之王, spelled Beelzebub in some translations).
-
-It starts as Predator, the skill Rimuru is born with. He swallows whatever he meets, analyzes it in his stomach, and keeps what it could do. He eats the Orc Lord and its Starved skill and grows into Gluttony, and Gluttony evolves into Beelzebuth. He never becomes the thing he ate. He becomes more himself, with its abilities folded in.
-
-That is what I wanted from merging skills. I kept collecting skills that were each good at one thing and fought each other when loaded together. So this one eats them, keeps what makes each of them strong, and comes out as one skill that is still clearly itself.
 
 ## How it works
 
@@ -90,7 +86,10 @@ No. It shows you both, proposes one, and waits. Approving a clearly stated exclu
 Never. It reads them as data. Anything that only works through a script, runtime, or harness is listed as excluded, not faked.
 
 **Why do merged skills get anime names?**
-Because Rimuru names everyone he takes in, and a name is part of what makes them stronger. The SKILL.md asks for one short, lowercase word, witty, and anime-inspired.
+A merge deserves a name you remember. The SKILL.md asks for one short, lowercase word, witty, and anime-inspired.
+
+**Why "beelzebub"?**
+It's named after Rimuru's Ultimate Skill in *That Time I Got Reincarnated as a Slime*.
 
 ## License
 
